@@ -5,7 +5,7 @@ This project controls an LED using **two real hardware inputs**:
 * A **capacitive touch sensor**, and
 * An **IR remote**.
 
-## 🔧 Used Hardware
+## Used Hardware
 
 * Microcontroller 
 * Capacitive touch sensor
@@ -15,7 +15,7 @@ This project controls an LED using **two real hardware inputs**:
 
 
 
-## ✨ Features
+## Features
 
 * Reads real capacitive touch input
 * Reads IR remote signals (using IR receiver module)
@@ -28,7 +28,7 @@ This project controls an LED using **two real hardware inputs**:
 ## 📁 Source Code
 
 ```
-main.cpp
+Capacitive_IR_LED_Control.cpp
 ```
 
 Contains all logic for reading the touch sensor, handling IR input, and controlling the LED.
